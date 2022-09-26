@@ -1,0 +1,15 @@
+C:\Users\OSMAN\ortalama_hesaplama\bin\Debug\net6.0\ortalama_hesaplama.exe
+C:\Users\OSMAN\ortalama_hesaplama\bin\Debug\net6.0\ortalama_hesaplama.deps.json
+C:\Users\OSMAN\ortalama_hesaplama\bin\Debug\net6.0\ortalama_hesaplama.runtimeconfig.json
+C:\Users\OSMAN\ortalama_hesaplama\bin\Debug\net6.0\ortalama_hesaplama.dll
+C:\Users\OSMAN\ortalama_hesaplama\bin\Debug\net6.0\ortalama_hesaplama.pdb
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ortalama_hesaplama.csproj.AssemblyReference.cache
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ortalama_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ortalama_hesaplama.AssemblyInfoInputs.cache
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ortalama_hesaplama.AssemblyInfo.cs
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ortalama_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ortalama_hesaplama.dll
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\refint\ortalama_hesaplama.dll
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ortalama_hesaplama.pdb
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ortalama_hesaplama.genruntimeconfig.cache
+C:\Users\OSMAN\ortalama_hesaplama\obj\Debug\net6.0\ref\ortalama_hesaplama.dll
